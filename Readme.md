@@ -13,3 +13,7 @@ De dentro do diretório **server** do aplicativo, execute o seguinte camando:
 Após instalar as dependencias basta executar o seguinte comando em cada diretorio.
 
 >**npm start**
+
+Segui a aula do canal **Matheus Castiglioni**
+
+<a href="https://www.youtube.com/watch?v=n0XTxlp68wc&ab_channel=MatheusCastiglioni" target="_blank">
