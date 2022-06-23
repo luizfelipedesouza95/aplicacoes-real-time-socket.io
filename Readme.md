@@ -16,4 +16,4 @@ Após instalar as dependencias basta executar o seguinte comando em cada diretor
 
 Segui a aula do canal **Matheus Castiglioni**
 
-<https://www.youtube.com/watch?v=n0XTxlp68wc&ab_channel=MatheusCastiglioni>
+[Link do Video](https://www.youtube.com/watch?v=n0XTxlp68wc&ab_channel=MatheusCastiglioni)
